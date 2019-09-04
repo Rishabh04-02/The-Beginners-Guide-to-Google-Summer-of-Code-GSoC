@@ -10,30 +10,70 @@ Do check eligibility criteria[link](link here)
 My motivation behind creating this repo here.
 
 ## Table of Contents
-1. [What is Open Source](What-is-Open-Source)
-	1. [Why Should we Care](Why-Should-we-Care)
-	2. How to make a contribution
-2. [What is git and GitHub]
-	1.  Version control systems
-3. [What is Google Summer of Code]
-	1. Eligibility criteria
-	2. Am I good Enough
-	3. Benefits of GSoC
-	4. Skills Required
-4. [How to Start](How-to-Start)
-	1. [Selecting the Project and Organization](Selecting-the-Project-and-Organization)
-	2. [Understanding the Project](Understanding-the-Project)
-	3. [Draft the Project Proposal](Draft-the-Project-Proposal)
-		1. 
-	4. [Getting Selected]
+* [What is Open Source](#what-is-open-source)
+	* [Why Should we Care](#why-should-we-care)
+	* [How to make a contribution](#how-to-make-a-contribution)
+* [What is git and GitHub](#what-is-git-and-github)
+	*  [Version control systems](#version-control-systems)
+* [What is Google Summer of Code](#what-is-google-summer-of-code)
+	* [Eligibility criteria](#eligibility-criteria)
+	* [Am I good Enough](#am-i-good-enough)
+	* [Benefits of GSoC](#benefits-of-gsoc)
+	* [Required Skills](#required-skills)
+* [How to Start](#how-to-start)
+	* [Selecting the Project and Organization](#selecting-the-project-and-organization)
+	* [Understanding the Project](#understanding-the-project)
+	* [Drafting the Project Proposal](#Drafting-the-project-proposal)
+	* [Getting Selected](#getting-selected)
 
 ## What is Open Source
-Intro about open source
+Intro about open source.
 
 ### Why Should we Care
 Why should we care about Open Source.
 
+### How to make a contribution
+How to make a contribution in Open Source Projects.
+
+## What is git and GitHub
+What is git and GitHub and what do we need to know about them.
+
+### What are version control systems
+What are version control systems, mention a few and write about their importance.
+
+## What is Google Summer of Code
+What is Google Summer of Code, write intro about it.
+
+### Eligibility criteria
+Mention the criteria and Provide the link too.
+
+### Am I good Enough
+Can I do it. I'm just a student. 
+
+### Benefits of GSoC
+GSoC the good parts here.
+
+### Required Skills
+What are the skills required for GSoC.
+
+## How to Start
+Where to begin, how to make a roadmap. What to do and what not to do.
+
+### Selecting the Project and Organization
+Selecting the Project and Organization
+
+### Understanding the Project
+Understanding the Project
+
+### Drafting the Project Proposal
+Drafting the Project Proposal
+
+### Getting Selected
+Getting Selected and sometimes rejected. How to handle rejection and what to do on selection.
 
 ## Contribute
 You have something to share? 
 Open an Issue or Create PR.
+
+## License
+This project is licensed under [MIT License](https://github.com/Rishabh04-02/The-Beginners-Guide-to-Google-Summer-of-Code-GSoC/blob/master/LICENSE)

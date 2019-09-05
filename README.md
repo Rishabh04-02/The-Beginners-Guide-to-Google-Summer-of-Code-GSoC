@@ -5,8 +5,8 @@ This is the beginners guide to Google Summer of Code (GSoC). The Google Summer o
 
 
 ## Motivation
-It all started with a blog post. I was writing a blog post "the beginners guide to GSoC" to help various students (who otherwise reach us on various social media platforms to ask queries and the students of NITH) get all the information and resources at one place. Then I thought to create this repo so that other knowledgeable people can also contribute.
-Me and the other collaborators of this repo are all two times(2018, 2019) GSoC students. So, we'll try to provide accurate, to the point and as much information as we can.
+It all started with a blog post. I was writing a blog post "the beginners guide to GSoC" to help various students (who otherwise reach us on various social media platforms to ask queries and for the students of NITH and IIITU) get all the information and resources at one place. Then I thought to create this repo so that other knowledgeable people can also contribute and to maximize its reach.
+Me and the other collaborators of this repo are all two times(2019, 2018) Successful GSoC students from NITH and IIITU. So, we'll try to provide accurate, to the point and as much information as we can.
 
 ## Table of Contents
 * [What is Open Source](#what-is-open-source)

@@ -25,6 +25,7 @@ Me and the other collaborators of this repo are all two times(2019, 2018) Succes
 	* [Understanding the Project](#understanding-the-project)
 	* [Drafting the Project Proposal](#Drafting-the-project-proposal)
 	* [Getting Selected](#getting-selected)
+* [Terminologies](#terminologies)
 
 ## What is Open Source
 The term Open Source means the source code of the software is freely available to its users and anyone can modify it. Open Source softwares can also be redistributed after modifying the original software. The Open Source softwares are usually available to the users for free, these softwares have no licensing fee or other restrictions as they use [open source licenses](https://en.wikipedia.org/wiki/Open-source_license). To know the detailed definition of Open Source you can visit this [link - opensource.org](https://opensource.org/osd).
@@ -47,7 +48,23 @@ There is another reason we should care about these softwares, as most of these s
 The Open source projects benefit users in the way that they are free, can be modified and re distributed (but to modify any software one should know it better, not everyone can modify a software), provides flexibility. These projects also benefit large corporations eg. Microsoft edge is based on Chromium and open source browser. These corporations can use the source code of open source softwares without any restrictions or license issues. 
 
 ### How to make a contribution
-How to make a contribution in Open Source Projects.
+Contributing to open source helps the contributor learn and gain experience about the language, product OR skill. But before trying to contribute to open source you have to learn few skills which are very easy. E.g. git, github, a programming language (not necessary, but essential for GSoC aspirants), basic knowledge of IRC(Internet Relay Chat), Basic knowledge of Bug tracking tools.
+
+[Reference to learn about git and github](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+
+The best way to contribute to an open source project is by getting to know the project and then finding a mentor (who may be an existing contributor to the project). The mentor will help to know the project better and will guide you through the project i.e. which bugs you should work on, how to fix a particular bug, how to submit your patch <sup>[1]</sup> (following the organization contribution guidelines). Working with a mentor will help you a lot. And if your mentor belongs to an organization that gets selected for GSoC, then you'll have an edge over other participants who are trying to get into GSoC.
+
+If you are unable to find a mentor then you have to join the project community which can be on IRC(Internet Relay Chat), Slack, Gitter, etc. For Example the project community of [The Libreswan Project](https://libreswan.org/wiki/IRC) is on IRC. Then you can ask question there related to the project or organization. But don't ask too obvious question. By Obvious question I mean the question which can be easily answered by reading about the project on the organization website or project README.md. E.g. "What does this project do?".
+
+Once there you could ask questions related to bugs for beginners, etc. Usually the organization members take time to respond to such questions. So, after asking the question wait for 24-48 hours (Keeping in mind the timezone difference).
+
+Once you reach there start working on solving the easy bug OR bugs for beginners and submit your patch (or pull request).
+
+**If you want to make your first contribution without getting involved with the organization members then there is a way.**
+* Visit [this link](https://github.com/firstcontributions/first-contributions) and follow the instructions.
+* Visit [this link](https://www.firsttimersonly.com) and follow the instructions.
+
+You can find various such repositories on gitHub or GitLab with a simple web search.
 
 ### Difference between Open Source, Freeware and Other Softwares
 Write Difference between Open Source and Freeware Softwares here.
@@ -87,6 +104,9 @@ Drafting the Project Proposal
 
 ### Getting Selected
 Getting Selected and sometimes rejected. How to handle rejection and what to do on selection.
+
+## Terminologies
+1. patch - It is a set of changes to a computer program or its supporting data designed to update, fix, or improve it.
 
 ## Contribute
 You have something to share? 

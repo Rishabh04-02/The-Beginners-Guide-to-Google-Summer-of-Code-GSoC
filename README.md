@@ -66,6 +66,8 @@ Once you reach there start working on solving the easy bug OR bugs for beginners
 
 You can find various such repositories on gitHub or GitLab with a simple web search.
 
+There is a guide on "How to Contribute to Open Source" you can find the detailed description for everything on [this link](https://opensource.guide/how-to-contribute/).
+
 ### Difference between Open Source, Freeware and Other Softwares
 Write Difference between Open Source and Freeware Softwares here.
 

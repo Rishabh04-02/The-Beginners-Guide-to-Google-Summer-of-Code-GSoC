@@ -169,7 +169,19 @@ There are two reasons for this:
 3. During the program, there will be times when you'd want to quit. The project will be getting hard, and you'll have a difficult time keeping up with it. At this point, it's only the interest that will keep you going, and if you had selected the project based on language with no interest in it, then you'll inevitably quit. I've seen many GSoC students quit the project because the project has become hardened, and they don't have interest in it.
 
 ### Selecting the Project and Organization
-Selecting the Project and Organization
+**How to select the project or organizations?**
+
+This stage of searching won't be easy, so you have to be patient. 
+
+First of all, you need to choose an organization (which might be doing work related to your interests) for that the best way is to visit [GSoC Archive](https://summerofcode.withgoogle.com/archive/) and see the completed projects and then visiting the website of the organization and searching for GSoC projects. If you didn't find any of the projects listed, then you can contact the organization members and ask them about the projects. This process will take weeks, but it is a sure way you can find the projects of your interest. 
+
+Note - 
+
+* Don't forget to ask the organizations members whether they'll be taking part in the next GSoC or not.
+* Start searching the archive in the order latest to oldest i.e., 2019 to 2009.
+
+I had written a blog post describing my experience when I was in the stage of searching for the project and organization. [GSoC - Selecting the project and organization
+](https://therishabh.in/gsoc_selecting_the_project_and_organization/)
 
 ### Understanding the Project
 Understanding the Project

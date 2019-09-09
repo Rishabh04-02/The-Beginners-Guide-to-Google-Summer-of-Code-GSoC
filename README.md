@@ -184,7 +184,13 @@ I had written a blog post describing my experience when I was in the stage of se
 ](https://therishabh.in/gsoc_selecting_the_project_and_organization/)
 
 ### Understanding the Project
-Understanding the Project
+Once you have completed Stage 1 ([Selecting the Project and Organization](#selecting-the-project-and-organization)), then the next thing is to understand the project, organization, and development technologies used by the organization.
+
+To achieve this aim you can read about the organization and its projects on their website or repositories or the web. Once you've gathered all the necessary knowledge about the organization and its projects, then gather as much knowledge as possible about the project you want to contribute. You can do this by asking a sensible question about the project to the organization members/Admins, once you've done this start contributing to the project. To make your first contributions, you should fix easy bugs in the project. 
+
+If your project is new and hasn't been started yet, then it's better to learn about it as much as you can, the organization members can help you with it. This thing happened to me in GSoC 2018, my project wasn't started, and the GSoC task was to build it. I gather information about it as much as I can and then drafted the project proposal. During the process, I was continuously asking the questions and clearing my doubts about the project by asking them to the organization Admin. You can also contribute to other organization projects if it helps in GSoC, ask the organization members about it.
+
+I had written a blog post about the same. [GSoC - Initial phase and getting selected](https://therishabh.in/gsoc_initial_phase_and_getting_selected/)
 
 ### Drafting the Project Proposal
 Drafting the Project Proposal

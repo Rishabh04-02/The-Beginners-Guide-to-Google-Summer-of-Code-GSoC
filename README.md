@@ -29,7 +29,7 @@ Me and the other collaborators of this repo are all two times(2019, 2018) Succes
 * [Terminologies](#terminologies)
 
 ## What is Open Source
-The term Open Source means the source code of the software is freely available to its users and anyone can modify it. Open Source softwares can also be redistributed after modifying the original software. The Open Source softwares are usually available to the users for free, these softwares have no licensing fee or other restrictions as they use [open source licenses](https://en.wikipedia.org/wiki/Open-source_license). To know the detailed definition of Open Source you can visit this [link - opensource.org](https://opensource.org/osd).
+The term Open Source means the source code of the software is freely available to its users, and anyone can modify it. Open Source software can also be redistributed after modifying the original software. The Open Source Softwares are usually available to the users for free, and this software has no licensing fee or other restrictions as they use [open source licenses](https://en.wikipedia.org/wiki/Open-source_license). To know the detailed definition of Open Source, you can visit this [link - opensource.org](https://opensource.org/osd).
 
 Few examples of open source softwares which you might be using on a daily basis are:
 
@@ -40,76 +40,76 @@ Few examples of open source softwares which you might be using on a daily basis 
 ### Why Should we Care
 **Why Should we care if a software is open source?**
 
-As the source code of open source softwares is freely available. Then there is negligible chance that the software is not respecting the user privacy. Which means that the software can't do something like this [These 6 popular browser extensions are selling your data](https://www.digitaltrends.com/news/popular-browser-extensions-are-selling-your-data/) and this [Uninstall These Eight Browser Extensions That Stole Data from Millions](https://lifehacker.com/uninstall-these-eight-browser-extensions-that-stole-dat-1836539093).
+As the source code of open source software is freely available. Then there is a negligible chance that the software is not respecting the user privacy. Which means that the software can't do something like this [These 6 popular browser extensions are selling your data](https://www.digitaltrends.com/news/popular-browser-extensions-are-selling-your-data/) and this [Uninstall These Eight Browser Extensions That Stole Data from Millions](https://lifehacker.com/uninstall-these-eight-browser-extensions-that-stole-dat-1836539093).
 
-But this does not mean that open source softwares are more secure than the closed source softwares. As in case of open source, the code is freely available so the threat actor can easily find vulnerabilities in it, when compared to the same software being closed source. But almost all of the popular open source softwares are being developed by the "best of the brains" on the earth, so worry not. 
+However, this does not mean that open source software is more secure than closed source software. As in case of open source, the code is freely available so the threat actor can easily find vulnerabilities in it when compared to it being closed source. However, almost all of the popular open-source software is developed by the "best of the brains" on earth.
 
-There is another reason we should care about these softwares, as most of these softwares are created and maintained by developers who don't get paid for anything or organizations which rely on donations to keep their projects alive. These softwares are not created for the purpose of earning money and making profits rather they are created to help/ease the lives of other people. To understand this better you should have a look at the [History of Firefox](https://itsfoss.com/history-of-firefox/).
+There is another reason we should care about these softwares, as most of these softwares are created and maintained by developers who don't get paid for anything or organizations which rely on donations to keep their projects alive. This software is not created to earn money and make profits; instead, they are created to help/ease the lives of other people. To understand this better, you should have a look at the [History of Firefox](https://itsfoss.com/history-of-firefox/).
 
-The Open source projects benefit users in the way that they are free, can be modified and re distributed (but to modify any software one should know it better, not everyone can modify a software), provides flexibility. These projects also benefit large corporations eg. Microsoft edge is based on Chromium and open source browser. These corporations can use the source code of open source softwares without any restrictions or license issues. 
+The Open source projects benefit users in the way that they are free, can be modified and redistributed (but to modify any software one should know it better, not everyone can modify a software), provide flexibility. These projects also benefit large corporations, eg. Microsoft edge is based on Chromium and open-source browser. These corporations can use the source code of open source software without any restrictions, license issues or copyright infringement. 
 
 ### How to make a contribution
-Contributing to open source helps the contributor learn and gain experience about the language, product OR skill. But before trying to contribute to open source you have to learn few skills which are very easy. E.g. git, github, a programming language (not necessary, but essential for GSoC aspirants), basic knowledge of IRC(Internet Relay Chat), Basic knowledge of Bug tracking tools.
+Contributing to open source helps the contributor learn and gain experience about the language, product OR skill. However, before trying to contribute to open source, you have to learn a few elementary skills. E.g., git, GitHub, a programming language (not necessary for everyone, but essential for GSoC aspirants), basic knowledge of IRC(Internet Relay Chat), Basic knowledge of Bug tracking tools.
 
 Reference to learn about [git and github](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners).
 
-The best way to contribute to an open source project is by getting to know the project and then finding a mentor (who may be an existing contributor to the project). The mentor will help to know the project better and will guide you through the project i.e. which bugs you should work on, how to fix a particular bug, how to submit your patch <sup>[1]</sup> (following the organization contribution guidelines). Working with a mentor will help you a lot. And if your mentor belongs to an organization that gets selected for GSoC, then you'll have an edge over other participants who are trying to get into GSoC.
+The best way to contribute to an open-source project is by getting to know the project and then finding a mentor (who may be an existing contributor to the project). The mentor helps you know the project better and guides you through it i.e., which bugs you should work on, how to fix a particular bug, how to submit your patch <sup>[1]</sup> (following the organization contribution guidelines). Working with a mentor helps you a lot. Moreover, if your mentor belongs to an organization that gets selected for GSoC, then you'll have the edge over other participants who are trying to get into GSoC.
 
-If you are unable to find a mentor then you have to join the project community which can be on IRC(Internet Relay Chat), Slack, Gitter, etc. For Example the project community of [The Libreswan Project](https://libreswan.org/wiki/IRC) is on IRC. Then you can ask question there related to the project or organization. But don't ask too obvious question. By Obvious question I mean the question which can be easily answered by reading about the project on the organization website or project README.md. E.g. "What does this project do?".
+If you are unable to find a mentor, then you have to join the project community which can be on IRC(Internet Relay Chat), Slack, Gitter, etc. For Example, the project community of [The Libreswan Project](https://libreswan.org/wiki/IRC) is on IRC. Then you can ask a question related to the project or organization. However, don't ask the too obvious question. By Obvious question, I mean the question which can be quickly answered by reading about the project on the organization website or project README.md. E.g. "What does this project do?".
 
-Once there you could ask questions related to bugs for beginners, etc. Usually the organization members take time to respond to such questions. So, after asking the question wait for 24-48 hours (Keeping in mind the timezone difference).
+Once there, you could ask questions related to bugs for beginners, etc. Usually, the organization members take the time to respond to such questions. So, after asking the question, wait for 24-48 hours (Keeping in mind the timezone difference).
 
-Once you reach there start working on solving the easy bug OR bugs for beginners and submit your patch (or pull request).
+Once you reach there, start solving the easy bugs OR bugs for beginners and submit your patch (or pull request).
 
-**If you want to make your first contribution without getting involved with the organization members then there is a way.**
+**If you want to make your first contribution without getting involved with the organization members, then there is a way.**
 
 * Visit [Github:firstcontributions](https://github.com/firstcontributions/first-contributions) and follow the instructions.
 * Visit [firsttimersonly.com](https://www.firsttimersonly.com) and follow the instructions.
 
-You can find various such repositories on gitHub or GitLab with a simple web search.
+You can find various such repositories on GitHub or GitLab with a simple web search.
 
-There is a guide on [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) where you can find the detailed description for everything.
+There is a guide on [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) where you can find the detailed description of everything.
 
 ### Difference between Open Source, Freeware and Other Softwares
-* **Open Source Softwares** - The source code of these softwares is freely available to its users and anyone can modify and redistribute it. These softwares use open source licenses which doesn't have any licensing fee. E.g. Mozilla Firefox web browser.
+* **Open Source Softwares** - The source code of these softwares is freely available to its users, and anyone can modify and redistribute it. These softwares use open source licenses which don't have any licensing fee. E.g., Mozilla Firefox web browser.
 
-* **Freeware Softwares** - These are the softwares which are free to use. But their source code is not available and is protected with proprietary rights and license. E.g. WinRAR.
+* **Freeware Softwares** - These are the softwares which are free to use. However, their source code is not available and is protected with proprietary rights, license, and copyrights. E.g., WinRAR.
 
-* **Proprietary software** - These are the softwares which are not free to use and their source code is protected with proprietary rights, license and copyright. The user needs to pay a specific amount to use the software. They often have limitations on its use, e.g. it can be installed only on one PC. These softwares are also called closed-source softwares. E.g. Microsoft Office.
+* **Proprietary software** - These are the softwares which are not free to use, and their source code is protected with proprietary rights, license, and copyright. The user needs to pay a specific amount to use the software. They often have limitations on its use; e.g., it can be installed only on one PC. These softwares are also called closed-source softwares. E.g., Microsoft Office.
 
 ## What is git and GitHub
-Git is an open source  version control system. It's main aim is to handle various kinds of projects with speed and efficiency.
+Git is an open-source version control system. Its main aim is to handle various kinds of projects with speed and efficiency.
 
-GitHub is a web based hosting service for version control using git.
+GitHub is a web-based hosting service for version control using git.
 
 ### Version control systems
 **What are version control systems?**
 
-Version control system is a category of software tools that keeps the track of changes done to a file/files over time.
+The version control system is a category of software tools that keeps track of changes done to a file/files over time.
 
-The main benefit it provides is that at any time we can view/revert to any available versions of a file/files. While other benefits are branching, merging and traceability.
+The main benefit it provides is that at any time we can view/revert to any available versions of a file/files while other benefits are branching, merging, and traceability.
 
-To read about version control systems in detail visit [Getting Started about version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) or [What is version control](https://www.atlassian.com/git/tutorials/what-is-version-control).
+To read about version control systems in detail, visit [Getting Started about version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) or [What is version control](https://www.atlassian.com/git/tutorials/what-is-version-control).
 
 ## What is Google Summer of Code
-Google Summer of Code (GSoC) is an annual global program sponsored and managed by Google. The program focuses on bringing more student developers into open source project development. In this program, the students work with an Open source organization under the guidance of mentors (selected organization members) on a 3-month programming project in Summers. In this program Google also awards stipends to students in 3 rounds or evaluations. The amount of Stipend depends on students geographical location. 
+Google Summer of Code (GSoC) is an annual global program sponsored and managed by Google. The program focuses on bringing more student developers into open source project development. In this program, the students work with an Open source organization under the guidance of mentors (selected organization members) on a 3-month programming project in Summers. In this program, Google also awards stipends to students in 3 rounds or evaluations. The amount of Stipend depends on students geographical location. 
 
-The whole program is divided into 3 evaluations or coding stages. Students plan & code for 1st month and then mentors review their work and provide their evaluation feedback and status to Google. The evaluation feedback and status(Passed/Failed) is then provided to the student on her dashboard. The students also submit the evaluation of their mentor but those are just few questions related to the project and mentor's performance. This whole process happen 3 times and then the results are announced by Google.
+The whole program is divided into 3 evaluations or coding stages. Students plan & code for 1st month and then mentors review their work and provide their evaluation feedback and status to Google. The evaluation feedback and status(Passed/Failed) is then provided to the student on her dashboard. The students also submit the evaluation of their mentor, but those are just a few questions related to the project and mentor's performance. This whole process happens 3 times, and then the results are announced by Google.
 
 ### Eligibility criteria
-* **Requirements** - To participate in the Program, a Student must:
+* **Requirements** - To participate in the program, a student must:
 
-1. be eighteen (18) years of age or older upon registration for the Program;
-2. be enrolled in or accepted into an accredited institution, including a college, university, masters program, PhD program, and/or undergraduate program, as of the Acceptance Date;
-3. for the duration of the Program, be eligible to work in the country in which he or she resides; and
+1. be eighteen (18) years of age or older upon registration for the program;
+2. be enrolled in or accepted into an accredited institution, including a college, university, masters program, Ph.D. program, or undergraduate program, as of the Acceptance Date;
+3. for the duration of the program, be eligible to work in the country in which he or she resides; and
 4. not be an Organization Administrator or Mentor in the Program.
 
-* **Ineligible Individuals** - A Student may not participate in the Program if he or she is:
+* **Ineligible Individuals** - A Student may not participate in the program if he or she is:
 
 1. a resident of a United States embargoed country;
-2. ordinarily resident in a United States embargoed country; or
+2. ordinarily resident in the United States embargoed country; or
 3. otherwise prohibited by applicable export controls and sanctions programs.
-4. Employee (including intern), contractor, officer, or director of Google or its affiliates, or an Organization or any of its affiliates.
+4. Employee (including intern), contractor, officer, or director of Google or its affiliates, or an organization or any of its affiliates.
 5. Immediate family member (including a parent, sibling, child, spouse, or life partner) of a Mentor or Organization Administrator with the same Organization or a member of the same household (whether related or not) as a Mentor or Organization Administrator with the same Organization.
 6. Has previously participated as a Student in Google Summer of Code two (2) or more times.
 
@@ -118,22 +118,22 @@ To know the complete rules visit the [GSoC Rules Page](https://summerofcode.with
 ### Am I good Enough
 If you are familiar with the technologies mentioned in the section - [How to make a contribution](#how-to-make-a-contribution), have experience contributing to open source and know how to program, then you are good to go.
 
-There are various other skills required to plan for the project and complete the project. But you'll learn them on the way.
+There are various other skills required to plan for the project and complete the project. However, you'll learn them on the way.
 
 There is more information available on the context at [GSoC Guides](https://google.github.io/gsocguides/student/am-i-good-enough).
 
 ### Benefits of GSoC
-There are various benefits of successfully completing GSoC. Few of them are mentioned below:
+There are various benefits of completing GSoC.
 
-* The recognition: GSoC is recognized worldwide so when applying for jobs you'll get an advantage. But GSoC students are more preferred by Startups than well established organizations because in startups like GSoC you have to learn new skills and technologies very fast and become good at it.
+* The recognition: GSoC is recognized worldwide, so when applying for jobs you'll get an advantage. However, GSoC students are more preferred by Startups than well-established organizations because, in startups like GSoC, you have to learn new skills and technologies very fast and become good at it.
 
-* The network: After successfully completing GSoC you now have a lot of connections who will help you and can provide recommendation when needed.
+* The network: After completing GSoC you now have many connections which help you and can provide recommendation when needed.
 
-* The Stipend: They pay really well.
+* The Stipend: They pay well.
 
-* The referral: After successfully completing the program you are given a one time referral which you can use within 6 years for any job at Google.
+* The referral: After completing the program you are given a one-time referral which you can use within 6 years for any job at Google.
 
-* The Exposure: When working on the project with experienced developers you get to learn a lot and get the industry's exposure.
+* The Exposure: When working on the project with experienced developers, you get to learn a lot and get the industry's exposure.
 
 * The Swag: What do developers like more than swag or goodies. You'll get a GSoC T-shirt and a certificate.
 

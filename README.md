@@ -7,7 +7,7 @@ This is the beginners guide to Google Summer of Code (GSoC). The Google Summer o
 
 ## Motivation
 It all started with a blog post. I was writing a blog post "the beginners guide to GSoC" to help various students (who otherwise reach us on various social media platforms to ask queries and for the students of NITH and IIITU) get all the information and resources at one place. Then I thought to create this repo so that other knowledgeable people can also contribute and to maximize its reach.
-Me and the other collaborators of this repo are all two times(2019, 2018) Successful GSoC students from NITH and IIITU. So, we'll try to provide accurate, to the point and as much information as we can.
+Me and the other collaborators of this repo are all GSoC students from NITH and IIITU. So, we'll try to provide accurate, to the point and as much information as we can.
 
 ## Table of Contents
 * [What is Open Source](#what-is-open-source)
@@ -140,10 +140,33 @@ There are various benefits of completing GSoC.
 * Chance to Mentor: You can also be a mentor the next time or in GCI by Google.
 
 ### Required Skills
-What are the skills required for GSoC.
+Few of the skills are mentioned in the section - [How to make a contribution](#how-to-make-a-contribution). E.g., git, GitHub, a programming language, basic knowledge of IRC(Internet Relay Chat), Basic knowledge of Bug tracking tools, git, and GitHub.
+
+You should also be familiar with the basics of [Software/System development life cycle](https://en.wikipedia.org/wiki/Systems_development_life_cycle) (This will help you in drafting an impressive and detail-oriented project proposal), MS Word/Google Docs.
+
+Also, the knowledge of the skills required for the project would be an added advantage.
+
+E.g. An example from my project proposal.
+
+```
+The basic tasks required for this project involves ​creating python/shell scripts, 
+working with LetsEncrypt and OpenSSL, creating and modifying configuration files, 
+working with Libreswan. I’ve worked on all of the above-mentioned tasks, some in 
+my projects(including Libreswan Managing Interface) and on some while contributing 
+to other open source projects.
+```
 
 ## How to Start
-Where to begin, how to make a roadmap. What to do and what not to do.
+The most challenging part of GSoC is Stage 1 - "The journey from the beginning to selecting the project of your interest". This is the most frustrating part where the students have to search for various projects and see if they are interested in it. Also, this is the stage where most of the aspiring GSoC students quit.
+
+The most common mistake students make in this stage is that they limit their search to specific programming languages. They only search for projects in a specific programming language rather than searching for the project of their interest. 
+
+**Why should you choose a project based on your interest?**
+
+There are two reasons for this:
+1. If you know, programming, then the language should not be a barrier in selecting the projects. You should be adaptive and fast learners, and these skills matter in GSoC.
+2. It will help you in drafting a good proposal. If you are interested in the project, then you'll learn a lot about it and will explore it. However, if you select a project based on language, then you'll do the necessarily required stuff and that so without much interest. 
+3. During the program, there will be times when you'd want to quit. The project will be getting hard, and you'll have a difficult time keeping up with it. At this point, it's only the interest that will keep you going, and if you had selected the project based on language with no interest in it, then you'll inevitably quit. I've seen many GSoC students quit the project because the project has become hardened, and they don't have interest in it.
 
 ### Selecting the Project and Organization
 Selecting the Project and Organization

@@ -1,6 +1,6 @@
 # The Beginners Guide to Google Summer of Code (GSoC)
 
-![GSoC Logo](gsoclogo.jpg)
+![GSoC Logo](gsoclogo.svg)
 
 ## Introduction
 This is the beginners guide to Google Summer of Code (GSoC). The Google Summer of Code is an annual global program sponsored and managed by Google. The program focuses on bringing more student developers into open source project development. In this program, the students work with an Open source organization under the guidance of mentors (selected organization members) on a 3-month programming project in Summers. 

@@ -26,6 +26,7 @@ Me and the other collaborators of this repo are all GSoC students from NITH and 
 	* [Understanding the Project](#understanding-the-project)
 	* [Drafting the Project Proposal](#Drafting-the-project-proposal)
 	* [Getting Selected](#getting-selected)
+* [Useful Links](#useful-links)
 * [Terminologies](#terminologies)
 
 ## What is Open Source
@@ -193,10 +194,39 @@ If your project is new and hasn't been started yet, then it's better to learn ab
 I had written a blog post about the same. [GSoC - Initial phase and getting selected](https://therishabh.in/gsoc_initial_phase_and_getting_selected/)
 
 ### Drafting the Project Proposal
-Drafting the Project Proposal
+Drafting the Project Proposal is the most critical part of GSoC, as all your efforts and progress until now depends on the proposal. Everything you've learned from the mentors, community, peers about the project should reflect in the project proposal. If you've learned a lot about the project and that too in detail, but you fail to represent all that in the proposal, then it won't help you.
+
+Usually, organizations have their project proposal formats, and it's good if you stick to it. But if your organization doesn't have a project proposal format, then below are a few things you can include in your project proposal:
+
+* **Background** - A little ( <150 words) background always helps. You can also add it to the description section of the GSoC dashboard.
+* **Objectives** - Clear and concise objectives will help others (including organization members) understand your project-related goals better.
+* **Technical Components/Modules** - It is always better to divide the whole project into few (<10) components. It'll help you and your mentor to keep track of your progress, and you'll be able to achieve the Objectives in a precise and planned way.
+* **Sub components/sub modules** - Further divide the components and modules into sub-components and sub-modules to the point that each sub-module is an independent entity/task.
+* **Use references** -  When explaining any task/module it's better to provide some references. A reference can be code snippet of similar nature (i.e., it represents some similar implementation) from the same or different project.
+* **Timeline** - It is distributing all the above tasks/components/modules over 12 weeks.
+* **Evaluation** - It just represents the above timeline in GSoC Evaluation periods. So, you and your mentors can track how many tasks are completed in a specific period of time.
+* **Personal** - You can also include some essential personal information.
+* **Social Profiles** - You can mention the links to your GitHub, Website, etc. and your email address.
+* **Timezone** - It'll help your mentor to schedule calls/meetings with you.
+* **Some Essential Information** - The information like your comfort working with a remotely available mentor, Your native language, Are you likely to finish the project in the allotted time, etc. will help you a lot.
+
+I've attached a [sample proposal for your reference](https://github.com/Rishabh04-02/The-Beginners-Guide-to-Google-Summer-of-Code-GSoC/blob/master/Sample-GSoC-Project-Proposal.pdf).
 
 ### Getting Selected
-Getting Selected and sometimes rejected. How to handle rejection and what to do on selection.
+If you get selected then you'll be able to see various details and options in the GSoC dashboard, and you'll get an mail from Google open source regarding the next steps; you have to follow them. And the best thing is you'll get some time for community bonding with the organization and mentors, use that time to clear all your doubts (if any) regarding the project, organizations, etc. This is an excellent time to discuss your roadmap (Timeline) with your mentors and fix slots for weekly or bi-weekly meetings.
+
+If you are not selected for the project, introspect and try to know the reasons for your failure and ask yourself a question "Why do you want to be a Google Summer of Code Student?". Learn from those failures and try again.
+
+Remember one thing "Success consists of going from failure to failure without loss of enthusiasm." - Winston Churchill
+
+## Useful Links
+1. [An Introduction to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
+2. [Learn about git and GitHub](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+3. [GSoC Guides](https://google.github.io/gsocguides/student/)
+4. [Introduction to Open Source - A Series by DigitalOcean](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
+5. [Contribute to Open Source. Search issue labels to find the right project for you!](http://issuehub.io)
+6. [Awesome First PR Opportunities](https://github.com/mungell/awesome-for-beginners)
+7. [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
 ## Terminologies
 1. patch - It is a set of changes to a computer program or its supporting data designed to update, fix, or improve it.

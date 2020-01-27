@@ -1,4 +1,11 @@
-# The Beginners Guide to Google Summer of Code (GSoC) [![Build Status](https://travis-ci.com/Rishabh04-02/The-Beginners-Guide-to-Google-Summer-of-Code-GSoC.svg?branch=master)](https://travis-ci.com/Rishabh04-02/The-Beginners-Guide-to-Google-Summer-of-Code-GSoC) [![HitCount](http://hits.dwyl.io/Rishabh04-02/The-Beginners-Guide-to-Google-Summer-of-Code-GSoC.svg)](http://hits.dwyl.io/Rishabh04-02/The-Beginners-Guide-to-Google-Summer-of-Code-GSoC)
+[welcom-badge]:  https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg?style=flat-square
+[welcome-link]:  https://github.com/Rishabh04-02/The-Beginners-Guide-to-Google-Summer-of-Code-GSoC?style=flat-square
+[travis-badge]: https://travis-ci.com/Rishabh04-02/The-Beginners-Guide-to-Google-Summer-of-Code-GSoC.svg?branch=master
+[travis-link]: https://travis-ci.com/Rishabh04-02/The-Beginners-Guide-to-Google-Summer-of-Code-GSoC
+[hit-count-image]: http://hits.dwyl.io/Rishabh04-02/The-Beginners-Guide-to-Google-Summer-of-Code-GSoC.svg
+[hit-count-link]: http://hits.dwyl.io/Rishabh04-02/The-Beginners-Guide-to-Google-Summer-of-Code-GSoC
+
+# The Beginners Guide to Google Summer of Code (GSoC) [![Build Status][travis-badge]][travis-link] [![HitCount][hit-count-image]][hit-count-link] [![PRs & Issues Welcome][welcom-badge]][welcome-link]
 
 ![GSoC Logo](gsoclogo.svg)
 

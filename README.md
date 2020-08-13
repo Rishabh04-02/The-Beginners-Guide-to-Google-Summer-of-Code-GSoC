@@ -43,7 +43,7 @@ Few examples of open source softwares which you might be using on a daily basis 
 
 * [Mozilla Firefox web browser](https://www.mozilla.org/en-US/firefox/) -  It has 665,020 commits made by 7,369 contributors representing 20,505,182 lines of code. [Reference](https://www.openhub.net/p/firefox)
 * [VLC media player](https://www.videolan.org/index.html) - It has 82,544 commits made by 524 contributors and has 50 releases. [Reference](https://github.com/videolan/vlc)
-* Almost all the Linux distributions. [Reference](http://glug.nith.ac.in/getting-started)
+* Almost all the Linux distributions.
 
 ### Why Should we Care
 **Why Should we care if a software is open source?**

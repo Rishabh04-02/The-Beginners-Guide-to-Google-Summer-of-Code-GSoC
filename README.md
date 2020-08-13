@@ -156,13 +156,13 @@ Also, the knowledge of the skills required for the project would be an added adv
 
 E.g. An example from my project proposal.
 
-```
-The basic tasks required for this project involves ​creating python/shell scripts, 
-working with LetsEncrypt and OpenSSL, creating and modifying configuration files, 
-working with Libreswan. I’ve worked on all of the above-mentioned tasks, some in 
-my projects(including Libreswan Managing Interface) and on some while contributing 
-to other open source projects.
-```
+
+	The basic tasks required for this project involves ​creating python/shell scripts, 
+	working with LetsEncrypt and OpenSSL, creating and modifying configuration files, 
+	working with Libreswan. I’ve worked on all of the above-mentioned tasks, some in 
+	my projects(including Libreswan Managing Interface) and on some while contributing 
+	to other open source projects.
+
 
 ## How to Start
 The most challenging part of GSoC is Stage 1 - "The journey from the beginning to selecting the project of your interest". This is the most frustrating part where the students have to search for various projects and see if they are interested in it. Also, this is the stage where most of the aspiring GSoC students quit.

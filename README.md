@@ -231,7 +231,7 @@ Remember one thing "Success consists of going from failure to failure without lo
 2. [Learn about git and GitHub](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 3. [GSoC Guides](https://google.github.io/gsocguides/student/)
 4. [Introduction to Open Source - A Series by DigitalOcean](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
-5. [Contribute to Open Source. Search issue labels to find the right project for you!](http://issuehub.io)
+5. [Contribute to Open Source. Search issue labels to find the right project for you!](https://github.com/despo/issuehub.io)
 6. [Awesome First PR Opportunities](https://github.com/mungell/awesome-for-beginners)
 7. [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 

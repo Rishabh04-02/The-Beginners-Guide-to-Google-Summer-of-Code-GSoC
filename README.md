@@ -1,8 +1,4 @@
-[welcom-badge]:  https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg?style=flat-square
-[welcome-link]:  https://github.com/Rishabh04-02/The-Beginners-Guide-to-Google-Summer-of-Code-GSoC?style=flat-square
-
 # The Beginners Guide to Google Summer of Code (GSoC) 
-[![PRs & Issues Welcome][welcom-badge]][welcome-link]
 
 ![GSoC Logo](gsoclogo.svg)
 

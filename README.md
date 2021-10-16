@@ -229,9 +229,10 @@ Remember one thing "Success consists of going from failure to failure without lo
 7. [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
 ## Terminologies
-1. patch - It is a set of changes to a computer program or its supporting data designed to update, fix, or improve it.
-2. commit - A single unit of code changs is called a commit. A PR (Pull Request) consist of one or more commits.
-3. PR - PR stands for Pull Request. It's synonm for a patch in Open Source terminilogoy.
+1. **patch** - It is a set of changes to a computer program or its supporting data designed to update, fix, or improve it.
+2. **commit** - A single unit of code changs is called a commit. A PR (Pull Request) consist of one or more commits.
+3. **PR** - PR stands for Pull Request. It's synonm for a patch in Open Source terminilogoy.
+4. **repo** - It is a short form for the word repository. Repository is a place where things are stored and can be found.
 
 ## Contribute
 You have something to share? 

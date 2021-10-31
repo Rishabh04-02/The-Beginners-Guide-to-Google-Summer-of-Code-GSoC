@@ -6,8 +6,11 @@
 This is the beginners guide to Google Summer of Code (GSoC). The Google Summer of Code is an annual global program sponsored and managed by Google. The program focuses on bringing more student developers into open source project development. In this program, the students work with an Open source organization under the guidance of mentors (selected organization members) on a 3-month programming project in Summers. 
 
 ## Motivation
-It all started with a blog post. I was writing a blog post "the beginners guide to GSoC" to help various students (who otherwise reach us on various social media platforms to ask queries and for the students of NITH and IIITU) get all the information and resources at one place. Then I thought to create this repo so that other knowledgeable people can also contribute and to maximize its reach.
-Me and the other collaborators of this repo are all GSoC students from NITH and IIITU. So, we'll try to provide accurate, to the point and as much information as we can.
+Many students (including my college juniors) reach out to me on various social media platforms to ask queries regarding GSoC. 
+So, I was writing a blog post that could provide them with the information and resources regarding GSoC in one place. 
+Then I thought to create this repo so that other knowledgeable people can also contribute to the content and maximize its reach.
+
+In this repo, I'll try to provide you with accurate information, resources and examples so that it helps you to get into GSoC.
 
 ## Table of Contents
 * [What is Open Source](#what-is-open-source)

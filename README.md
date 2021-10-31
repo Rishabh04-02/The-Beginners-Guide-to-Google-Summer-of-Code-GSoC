@@ -3,7 +3,7 @@
 ![GSoC Logo](gsoclogo.svg)
 
 ## Introduction
-This is the beginners guide to Google Summer of Code (GSoC). The Google Summer of Code is an annual global program sponsored and managed by Google. The program focuses on bringing more student developers into open source project development. In this program, the students work with an Open source organization under the guidance of mentors (selected organization members) on a 3-month programming project in Summers. 
+This is the beginner's guide to Google Summer of Code (GSoC). The Google Summer of Code is an annual global program sponsored and managed by Google. The program focuses on bringing more student developers into open source project development. In this program, the students work with an Open source organization under the guidance of mentors (selected organization members) on a 3-month programming project in Summers. 
 
 ## Motivation
 Many students (including my college juniors) reach out to me on various social media platforms to ask queries regarding GSoC. 
@@ -33,22 +33,22 @@ In this repo, I'll try to provide you with accurate information, resources and e
 * [Terminologies](#terminologies)
 
 ## What is Open Source
-The term Open Source means the source code of the software is freely available to its users, and anyone can modify it. Open Source software can also be redistributed after modifying the original software. The Open Source Softwares are usually available to the users for free, and this software has no licensing fee or other restrictions as they use [open source licenses](https://en.wikipedia.org/wiki/Open-source_license). To know the detailed definition of Open Source, you can visit this [link - opensource.org](https://opensource.org/osd).
+The term Open Source means the source code of the software is freely available to its users, and anyone can modify it. Open Source software can also be redistributed after modifying the original software. The Open Source Software are usually available to the users for free, and this software has no licensing fee or other restrictions as they use [open source licenses](https://en.wikipedia.org/wiki/Open-source_license). To know the detailed definition of Open Source, you can visit this [link - opensource.org](https://opensource.org/osd).
 
-Few examples of open source softwares which you might be using on a daily basis are:
+A few examples of open-source software which you might be using daily are:
 
 * [Mozilla Firefox web browser](https://www.mozilla.org/en-US/firefox/) -  It has 665,020 commits made by 7,369 contributors representing 20,505,182 lines of code. [Reference](https://www.openhub.net/p/firefox)
 * [VLC media player](https://www.videolan.org/index.html) - It has 82,544 commits made by 524 contributors and has 50 releases. [Reference](https://github.com/videolan/vlc)
 * Almost all the Linux distributions.
 
 ### Why Should we Care
-**Why Should we care if a software is open source?**
+**Why Should we care if the software is open source?**
 
-As the source code of open source software is freely available. Then there is a negligible chance that the software is not respecting the user privacy. Which means that the software can't do something like this [These 6 popular browser extensions are selling your data](https://www.digitaltrends.com/news/popular-browser-extensions-are-selling-your-data/) and this [Uninstall These Eight Browser Extensions That Stole Data from Millions](https://lifehacker.com/uninstall-these-eight-browser-extensions-that-stole-dat-1836539093).
+As the source code of open source software is freely available. Then there is a negligible chance that the software is not respecting the user privacy. This means that the software can't do something like this [These 6 popular browser extensions are selling your data](https://www.digitaltrends.com/news/popular-browser-extensions-are-selling-your-data/) and this [Uninstall These Eight Browser Extensions That Stole Data from Millions](https://lifehacker.com/uninstall-these-eight-browser-extensions-that-stole-dat-1836539093).
 
-However, this does not mean that open source software is more secure than closed source software. As in case of open source, the code is freely available so the threat actor can easily find vulnerabilities in it when compared to it being closed source. However, almost all of the popular open-source software is developed by the "best of the brains" on earth.
+However, this does not mean that open source software is more secure than closed source software. As in the case of open-source, the code is freely available so the threat actor can easily find vulnerabilities in it when compared to it being a closed source. However, almost all of the popular open-source software is developed by the "best of the brains" on earth.
 
-There is another reason we should care about these softwares, as most of these softwares are created and maintained by developers who don't get paid for anything or organizations which rely on donations to keep their projects alive. This software is not created to earn money and make profits; instead, they are created to help/ease the lives of other people. To understand this better, you should have a look at the [History of Firefox](https://itsfoss.com/history-of-firefox/).
+There is another reason we should care about this software, as most of these software's are created and maintained by developers who don't get paid for anything or organizations which rely on donations to keep their projects alive. This software is not created to earn money and make profits; instead, they are created to help/ease the lives of other people. To understand this better, you should have a look at the [History of Firefox](https://itsfoss.com/history-of-firefox/).
 
 The Open source projects benefit users in the way that they are free, can be modified and redistributed (but to modify any software one should know it better, not everyone can modify a software), provide flexibility. These projects also benefit large corporations, eg. Microsoft edge is based on Chromium an open-source browser. These corporations can use the source code of open source software without any restrictions, license issues or copyright infringement. 
 
@@ -72,14 +72,14 @@ Once you reach there, start solving the easy bugs OR bugs for beginners and subm
 
 You can find various such repositories on GitHub or GitLab with a simple web search.
 
-There is a guide on [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) where you can find the detailed description of everything.
+There is a guide on [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) where you can find a detailed description of everything.
 
 ### Difference between Open Source, Freeware and Other Softwares
-* **Open Source Softwares** - The source code of these softwares is freely available to its users, and anyone can modify and redistribute it. These softwares use open source licenses which don't have any licensing fee. E.g., Mozilla Firefox web browser.
+* **Open Source Software** - The source code of these software's is freely available to its users, and anyone can modify and redistribute it. This software use open source licenses which don't have any licensing fee. E.g., Mozilla Firefox web browser.
 
-* **Freeware Softwares** - These are the softwares which are free to use. However, their source code is not available and is protected with proprietary rights, license, and copyrights. E.g., WinRAR.
+* **Freeware Softwares** - These are the software that is free to use. However, their source code is not available and is protected with proprietary rights, licenses, and copyrights. E.g., WinRAR.
 
-* **Proprietary software** - These are the softwares which are not free to use, and their source code is protected with proprietary rights, license, and copyright. The user needs to pay a specific amount to use the software. They often have limitations on its use; e.g., it can be installed only on one PC. These softwares are also called closed-source softwares. E.g., Microsoft Office.
+* **Proprietary software** - These are the software's that are not free to use, and their source code is protected with proprietary rights, license, and copyright. The user needs to pay a specific amount to use the software. They often have limitations on their use; e.g., it can be installed only on one PC. This software is also called closed-source software. E.g., Microsoft Office.
 
 ## What is git and GitHub
 Git is an open-source version control system. Its main aim is to handle various kinds of projects with speed and efficiency.
@@ -91,14 +91,14 @@ GitHub is a web-based hosting service for version control using git.
 
 The version control system is a category of software tools that keeps track of changes done to a file/files over time.
 
-The main benefit it provides is that at any time we can view/revert to any available versions of a file/files while other benefits are branching, merging, and traceability.
+The main benefit it provides is that at any time we can view/revert to any available versions of a file while other benefits are branching, merging, and traceability.
 
 To read about version control systems in detail, visit [Getting Started about version control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) or [What is version control](https://www.atlassian.com/git/tutorials/what-is-version-control).
 
 ## What is Google Summer of Code
 Google Summer of Code (GSoC) is an annual global program sponsored and managed by Google. The program focuses on bringing more student developers into open source project development. In this program, the students work with an Open source organization under the guidance of mentors (selected organization members) on a 3-month programming project in Summers. In this program, Google also awards stipends to students in 3 rounds or evaluations. The amount of Stipend depends on students geographical location. 
 
-The whole program is divided into 3 evaluations or coding stages. Students plan & code for 1st month and then mentors review their work and provide their evaluation feedback and status to Google. The evaluation feedback and status(Passed/Failed) is then provided to the student on her dashboard. The students also submit the evaluation of their mentor, but those are just a few questions related to the project and mentor's performance. This whole process happens 3 times, and then the results are announced by Google.
+The whole program is divided into 3 evaluations or coding stages. Students plan & code for 1st month and then mentors review their work and provide their evaluation feedback and status to Google. The evaluation feedback and status(Passed/Failed) is then provided to the student on her dashboard. The students also submit the evaluation of their mentor, but those are just a few questions related to the project and the mentor's performance. This whole process happens 3 times, and then the results are announced by Google.
 
 ### Eligibility criteria
 * **Requirements** - To participate in the program, a student must:
@@ -129,9 +129,9 @@ There is more information available on the context at [GSoC Guides](https://goog
 ### Benefits of GSoC
 There are various benefits of completing GSoC.
 
-* The recognition: GSoC is recognized worldwide, so when applying for jobs you'll get an advantage. However, GSoC students are more preferred by Startups than well-established organizations because, in startups like GSoC, you have to learn new skills and technologies very fast and become good at it.
+* The recognition: GSoC is recognized worldwide, so when applying for jobs you'll get an advantage. However, GSoC students are more preferred by Startups than well-established organizations because, in startups like GSoC, you have to learn new skills and technologies very fast and become good at them.
 
-* The network: After completing GSoC you now have many connections which help you and can provide recommendation when needed.
+* The network: After completing GSoC you now have many connections which help you and can provide recommendations when needed.
 
 * The Stipend: They pay well.
 
@@ -144,7 +144,7 @@ There are various benefits of completing GSoC.
 * Chance to Mentor: You can also be a mentor the next time or in GCI by Google.
 
 ### Required Skills
-Few of the skills are mentioned in the section - [How to make a contribution](#how-to-make-a-contribution). E.g., git, GitHub, a programming language, basic knowledge of IRC(Internet Relay Chat), Basic knowledge of Bug tracking tools, git, and GitHub.
+A Few of the skills are mentioned in the section - [How to make a contribution](#how-to-make-a-contribution). E.g., git, GitHub, a programming language, basic knowledge of IRC(Internet Relay Chat), Basic knowledge of Bug tracking tools, git, and GitHub.
 
 You should also be familiar with the basics of [Software/System development life cycle](https://en.wikipedia.org/wiki/Systems_development_life_cycle) (This will help you in drafting an impressive and detail-oriented project proposal), MS Word/Google Docs.
 
@@ -153,15 +153,15 @@ Also, the knowledge of the skills required for the project would be an added adv
 E.g. An example from my project proposal.
 
 
-	The basic tasks required for this project involves ​creating python/shell scripts, 
+	The basic tasks required for this project involves creating python/shell scripts, 
 	working with LetsEncrypt and OpenSSL, creating and modifying configuration files, 
 	working with Libreswan. I’ve worked on all of the above-mentioned tasks, some in 
 	my projects(including Libreswan Managing Interface) and on some while contributing 
-	to other open source projects.
+	to other open-source projects.
 
 
 ## How to Start
-The most challenging part of GSoC is Stage 1 - "The journey from the beginning to selecting the project of your interest". This is the most frustrating part where the students have to search for various projects and see if they are interested in it. Also, this is the stage where most of the aspiring GSoC students quit.
+The most challenging part of GSoC is Stage 1 - "The journey from the beginning to selecting the project of your interest". This is the most frustrating part where the students have to search for various projects and see if they are interested in them. Also, this is the stage where most of the aspiring GSoC students quit.
 
 The most common mistake students make in this stage is that they limit their search to specific programming languages. They only search for projects in a specific programming language rather than searching for the project of their interest. 
 
@@ -169,15 +169,15 @@ The most common mistake students make in this stage is that they limit their sea
 
 There are two reasons for this:
 1. If you know, programming, then the language should not be a barrier in selecting the projects. You should be adaptive and fast learners, and these skills matter in GSoC.
-2. It will help you in drafting a good proposal. If you are interested in the project, then you'll learn a lot about it and will explore it. However, if you select a project based on language, then you'll do the necessarily required stuff and that so without much interest. 
-3. During the program, there will be times when you'd want to quit. The project will be getting hard, and you'll have a difficult time keeping up with it. At this point, it's only the interest that will keep you going, and if you had selected the project based on language with no interest in it, then you'll inevitably quit. I've seen many GSoC students quit the project because the project has become hardened, and they don't have interest in it.
+2. It will help you in drafting a good proposal. If you are interested in the project, then you'll learn a lot about it and will explore it. However, if you select a project based on language, then you'll do the necessary required stuff and that so without much interest. 
+3. During the program, there will be times when you'd want to quit. The project will be getting hard, and you'll have a difficult time keeping up with it. At this point, it's only the interest that will keep you going, and if you had selected the project based on language with no interest in it, then you'll inevitably quit. I've seen many GSoC students quit the project because the project has become hardened, and they don't have an interest in it.
 
 ### Selecting the Project and Organization
 **How to select the project or organizations?**
 
 This stage of searching won't be easy, so you have to be patient. 
 
-First of all, you need to choose an organization (which might be doing work related to your interests) for that the best way is to visit [GSoC Archive](https://summerofcode.withgoogle.com/archive/) and see the completed projects and then visiting the website of the organization and searching for GSoC projects. If you didn't find any of the projects listed, then you can contact the organization members and ask them about the projects. This process will take weeks, but it is a sure way you can find the projects of your interest. 
+First of all, you need to choose an organization (which might be doing work related to your interests) for that the best way is to visit [GSoC Archive](https://summerofcode.withgoogle.com/archive/) and see the completed projects and then visit the website of the organization and searching for GSoC projects. If you didn't find any of the projects listed, then you can contact the organization members and ask them about the projects. This process will take weeks, but it is a sure way you can find the projects of your interest. 
 
 Note - 
 
@@ -192,22 +192,22 @@ Once you have completed Stage 1 ([Selecting the Project and Organization](#selec
 
 To achieve this aim you can read about the organization and its projects on their website or repositories or the web. Once you've gathered all the necessary knowledge about the organization and its projects, then gather as much knowledge as possible about the project you want to contribute. You can do this by asking a sensible question about the project to the organization members/Admins, once you've done this start contributing to the project. To make your first contributions, you should fix easy bugs in the project. 
 
-If your project is new and hasn't been started yet, then it's better to learn about it as much as you can, the organization members can help you with it. This thing happened to me in GSoC 2018, my project wasn't started, and the GSoC task was to build it. I gather information about it as much as I can and then drafted the project proposal. During the process, I was continuously asking the questions and clearing my doubts about the project by asking them to the organization Admin. You can also contribute to other organization projects if it helps in GSoC, ask the organization members about it.
+If your project is new and hasn't been started yet, then it's better to learn about it as much as you can, the organization members can help you with it. This thing happened to me in GSoC 2018, my project wasn't started, and the GSoC task was to build it. I gather information about it as much as I can and then drafted the project proposal. During the process, I was continuously asking questions and clearing my doubts about the project by asking them to the organization Admin. You can also contribute to other organization projects if it helps in GSoC, ask the organization members about it.
 
 I had written a blog post about the same. [GSoC - Initial phase and getting selected](https://therishabh.in/gsoc_initial_phase_and_getting_selected/)
 
 ### Drafting the Project Proposal
-Drafting the Project Proposal is the most critical part of GSoC, as all your efforts and progress until now depends on the proposal. Everything you've learned from the mentors, community, peers about the project should reflect in the project proposal. If you've learned a lot about the project and that too in detail, but you fail to represent all that in the proposal, then it won't help you.
+Drafting the Project Proposal is the most critical part of GSoC, as all your efforts and progress until now depend on the proposal. Everything you've learned from the mentors, community, peers about the project should reflect in the project proposal. If you've learned a lot about the project and that too in detail, but you fail to represent all that in the proposal, then it won't help you.
 
-Usually, organizations have their project proposal formats, and it's good if you stick to it. But if your organization doesn't have a project proposal format, then below are a few things you can include in your project proposal:
+Usually, organizations have their project proposal formats, and it's good if you stick to them. But if your organization doesn't have a project proposal format, then below are a few things you can include in your project proposal:
 
 * **Background** - A little ( <150 words) background always helps. You can also add it to the description section of the GSoC dashboard.
 * **Objectives** - Clear and concise objectives will help others (including organization members) understand your project-related goals better.
-* **Technical Components/Modules** - It is always better to divide the whole project into few (<10) components. It'll help you and your mentor to keep track of your progress, and you'll be able to achieve the Objectives in a precise and planned way.
+* **Technical Components/Modules** - It is always better to divide the whole project into a few (<10) components. It'll help you and your mentor to keep track of your progress, and you'll be able to achieve the Objectives in a precise and planned way.
 * **Sub components/sub modules** - Further divide the components and modules into sub-components and sub-modules to the point that each sub-module is an independent entity/task.
-* **Use references** -  When explaining any task/module it's better to provide some references. A reference can be code snippet of similar nature (i.e., it represents some similar implementation) from the same or different project.
+* **Use references** -  When explaining any task/module it's better to provide some references. A reference can be a code snippet of similar nature (i.e., it represents some similar implementation) from the same or different project.
 * **Timeline** - It is distributing all the above tasks/components/modules over 12 weeks.
-* **Evaluation** - It just represents the above timeline in GSoC Evaluation periods. So, you and your mentors can track how many tasks are completed in a specific period of time.
+* **Evaluation** - It just represents the above timeline in GSoC Evaluation periods. So, you and your mentors can track how many tasks are completed in a specific period.
 * **Personal** - You can also include some essential personal information.
 * **Social Profiles** - You can mention the links to your GitHub, Website, etc. and your email address.
 * **Timezone** - It'll help your mentor to schedule calls/meetings with you.
@@ -216,7 +216,7 @@ Usually, organizations have their project proposal formats, and it's good if you
 I've attached a [sample proposal for your reference](https://github.com/Rishabh04-02/The-Beginners-Guide-to-Google-Summer-of-Code-GSoC/blob/master/Sample-GSoC-Project-Proposal.pdf).
 
 ### Getting Selected
-If you get selected then you'll be able to see various details and options in the GSoC dashboard, and you'll get an mail from Google open source regarding the next steps; you have to follow them. And the best thing is you'll get some time for community bonding with the organization and mentors, use that time to clear all your doubts (if any) regarding the project, organizations, etc. This is an excellent time to discuss your roadmap (Timeline) with your mentors and fix slots for weekly or bi-weekly meetings.
+If you get selected then you'll be able to see various details and options in the GSoC dashboard, and you'll get an email from Google open source regarding the next steps; you have to follow them. And the best thing is you'll get some time for community bonding with the organization and mentors, use that time to clear all your doubts (if any) regarding the project, organizations, etc. This is an excellent time to discuss your roadmap (Timeline) with your mentors and fix slots for weekly or bi-weekly meetings.
 
 If you are not selected for the project, introspect and try to know the reasons for your failure and ask yourself a question "Why do you want to be a Google Summer of Code Student?". Learn from those failures and try again.
 
@@ -233,12 +233,12 @@ Remember one thing "Success consists of going from failure to failure without lo
 
 ## Terminologies
 1. **patch** - It is a set of changes to a computer program or its supporting data designed to update, fix, or improve it.
-2. **commit** - A single unit of code changs is called a commit. A PR (Pull Request) consist of one or more commits.
-3. **PR** - PR stands for Pull Request. It's synonm for a patch in Open Source terminilogoy.
-4. **repo** - It is a short form for the word repository. Repository is a place where things are stored and can be found.
+2. **commit** - A single unit of code changes is called a commit. A PR (Pull Request) consists of one or more commits.
+3. **PR** - PR stands for Pull Request. It's a synonym for a patch in Open Source terminology.
+4. **repo** - It is a short form for the word repository. A repository is a place where things are stored and can be found.
 
 ## Contribute
-You have something to share? 
+Do you have something to share? 
 Open an Issue or Create PR.
 
 ## License

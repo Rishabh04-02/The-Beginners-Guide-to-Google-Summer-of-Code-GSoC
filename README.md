@@ -8,7 +8,7 @@ This is the beginner's guide to Google Summer of Code (GSoC). The Google Summer 
 ## Motivation
 Many students (including my college juniors) reach out to me on various social media platforms to ask queries regarding GSoC. 
 So, I was writing a blog post that could provide them with the information and resources regarding GSoC in one place. 
-Then I thought to create this repo so that other knowledgeable people can also contribute to the content and maximize its reach.
+Then I thought to create this repo so that other knowledgeable people can also contribute to the content and help students all around the world.
 
 In this repo, I'll try to provide you with accurate information, resources and examples so that it helps you to get into GSoC.
 

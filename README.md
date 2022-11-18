@@ -108,6 +108,8 @@ The whole program is divided into 3 evaluations or coding stages. Students plan 
 3. for the duration of the program, be eligible to work in the country in which he or she resides; and
 4. not be an Organization Administrator or Mentor in the Program.
 
+**UPDATE:** Google recently announced that starting in 2023, students and people who are new in their Open Source journey can participate in this program. Click **[here](https://opensource.googleblog.com/2022/11/get-ready-for-google-summer-of-code-2023.html)** to see more updates.
+
 * **Ineligible Individuals** - A Student may not participate in the program if he or she is:
 
 1. a resident of a United States embargoed country;

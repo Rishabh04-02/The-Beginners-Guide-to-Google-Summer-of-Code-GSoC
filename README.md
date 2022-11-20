@@ -101,23 +101,32 @@ Google Summer of Code (GSoC) is an annual global program sponsored and managed b
 The whole program is divided into 3 evaluations or coding stages. Students plan & code for 1st month and then mentors review their work and provide their evaluation feedback and status to Google. The evaluation feedback and status(Passed/Failed) is then provided to the student on her dashboard. The students also submit the evaluation of their mentor, but those are just a few questions related to the project and the mentor's performance. This whole process happens 3 times, and then the results are announced by Google.
 
 ### Eligibility criteria
-* **Requirements** - To participate in the program, a student must:
 
-1. be eighteen (18) years of age or older upon registration for the program;
-2. be enrolled in or accepted into an accredited institution, including a college, university, masters program, Ph.D. program, or undergraduate program, as of the Acceptance Date;
-3. for the duration of the program, be eligible to work in the country in which he or she resides; and
-4. not be an Organization Administrator or Mentor in the Program.
+**UPDATE:** Google recently announced that starting in 2023, GSoC is being opened to contributors new to open source software development (and not just to students anymore). **[Official blog post announcing the changes -  Get ready for Google Summer of Code 2023!](https://opensource.googleblog.com/2022/11/get-ready-for-google-summer-of-code-2023.html)**.
 
-**UPDATE:** Google recently announced that starting in 2023, students and people who are new in their Open Source journey can participate in this program. Click **[here](https://opensource.googleblog.com/2022/11/get-ready-for-google-summer-of-code-2023.html)** to see more updates.
 
-* **Ineligible Individuals** - A Student may not participate in the program if he or she is:
+#### **Requirements** - To participate in the program, a GSoC Contributor must:
 
-1. a resident of a United States embargoed country;
-2. ordinarily resident in the United States embargoed country; or
-3. otherwise prohibited by applicable export controls and sanctions programs.
-4. Employee (including intern), contractor, officer, or director of Google or its affiliates, or an organization or any of its affiliates.
-5. Immediate family member (including a parent, sibling, child, spouse, or life partner) of a Mentor or Organization Administrator with the same Organization or a member of the same household (whether related or not) as a Mentor or Organization Administrator with the same Organization.
-6. Has previously participated as a Student in Google Summer of Code two (2) or more times.
+1. be eighteen (18) years of age or older upon registration for the Program;
+2. for the duration of the Program, be eligible to work in the country in which they reside;
+3. not be an Organization Administrator or Mentor in the Program; and
+4. be a student or a beginner to open source software development.
+
+
+#### **Ineligible Individuals** - A GSoC Contributor may not participate in the Program if:
+
+
+1. They are:
+	1. a resident of a United States embargoed country;
+	2. ordinarily resident in a United States embargoed country; or
+        3. otherwise prohibited by applicable export controls and sanctions programs.
+
+2. They are an employee (including intern), contractor, officer, or director of:
+	1. Google or its affiliates, or
+        2. an Organization or any of its affiliates.
+3. They are an immediate family member (including a parent, sibling, child, spouse, or life partner) of a Mentor or Organization Administrator with the same Organization or a member of the same household (whether related or not) as a Mentor or Organization Administrator with the same Organization.
+4. They have previously participated as a GSoC Student or GSoC Contributor in Google Summer of Code two (2) or more times.
+
 
 To know the complete rules visit the [GSoC Rules Page](https://summerofcode.withgoogle.com/rules/).
 
